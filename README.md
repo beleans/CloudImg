@@ -1,2 +1,2 @@
 # CloudImg
-githob图床
+github图床
